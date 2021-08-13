@@ -1,5 +1,8 @@
-# PI-Net
-CVPR 2021 PI-Net Code
+### Perceptual Indistinguishability-Net (PI-Net): Facial Image Obfuscation with Manipulable Semantics
+
+Jia-Wei Chen, Li-Ju Chen, Chia-Mu Yu, Chun-Shien Lu, Perceptual Indistinguishability-Net (PI-Net): Facial Image Obfuscation with Manipulable Semantics, *IEEE/CVF CVPR*, 2021.
+
+Note: the packages related to StyleGAN and the dependencies need to be handled manually. 
 
 1. train_Auto_Encoder_G_mapping_noC.py
     -> main()
